@@ -1,8 +1,8 @@
-### **SEMANA Omnistack 11 Be-The-Hero**
+### 💻️ **Semana Omnistack 11 -  Be The Hero**
 
 Aplicação para ajudar ONGS e pessoas em arrecadações financeiras ♥ foi ensinado utilizando tecnologias como ReactJs, React-Native e NodeJS.
 
-### **Backend**
+### 🚀️ **Backend**
 
 Este modulo da aplicação foi desenvolvido Com ferramentas tipo:
 
@@ -53,7 +53,8 @@ As Rotas estão no arquivo Insomnia_Be-The-Hero para utilizar
 yarn test or npm test
 ```
 
-**Frontend** da aplicação foi desenvolvido Com ferramentas tipo:
+### 📺️ **Frontend** 
+Front da aplicação foi desenvolvido Com ferramentas tipo:
 
 _Dependencies_
 
@@ -73,7 +74,7 @@ _Dependencies_
 
 ```
 
-### **Mobile** 
+### 📱️ **Mobile** 
 Já no Mobile da aplicação foi desenvolvido no [Expo](https://expo.io/) e Com ferramentas tipo:
 
 _Dependencies_
